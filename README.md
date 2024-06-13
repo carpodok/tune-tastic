@@ -41,7 +41,7 @@ TUNE-TASTIC
 │   ├── utils
 │   │   ├── isURL.js
 │   │   ├── playlistManager.js
-|   |- server.js
+|   |- index.js
 ├── .env
 ├── package.json
 ```
