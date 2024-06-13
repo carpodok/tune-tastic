@@ -28,7 +28,6 @@ The project folder structure is organized as follows:
 
 ```java
 TUNE-TASTIC
-├── node_modules
 ├── src
 │   ├── commands
 │   │   ├── add.js
@@ -44,8 +43,6 @@ TUNE-TASTIC
 │   │   ├── playlistManager.js
 |   |- server.js
 ├── .env
-├── .gitignore
-├── package-lock.json
 ├── package.json
 ```
 
