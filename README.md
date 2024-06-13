@@ -65,7 +65,7 @@ To set up and run the Tune-Tastic bot, follow these steps:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-carpodok/tune-tastic.git
+git clone https://github.com/carpodok/tune-tastic.git
 cd tune-tastic
 ```
 
